@@ -1,2 +1,2 @@
-# -UniSys
+# UniSys
  UniSys - University Management System
