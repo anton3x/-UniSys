@@ -1,0 +1,3 @@
+C:/Users/josed/Ambiente de Trabalho/sip/cmake-build-debug/CMakeFiles/sip.dir
+C:/Users/josed/Ambiente de Trabalho/sip/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josed/Ambiente de Trabalho/sip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
