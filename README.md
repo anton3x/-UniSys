@@ -7,7 +7,6 @@ UniSys is a simple command-line-based University Management System implemented i
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Menu Options](#menu-options)
 - [Data Persistence](#data-persistence)
@@ -28,15 +27,7 @@ UniSys is a simple command-line-based University Management System implemented i
 
 - C++ compiler
 - Terminal or Command Prompt
-
-### Installation
-
-   ```bash
-   git clone https://github.com/your-username/UniSys.git
-   cd UniSys
-   g++ main.cpp -o UniSys
-   ./UniSys
-   ```
+  
 ## Usage
 
 Upon running the program, a menu interface will be displayed in the console. Use the menu options to navigate and perform various operations.
